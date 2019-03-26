@@ -1,14 +1,14 @@
 {
-  "main.css": "/pages/timecapture/react-gh-pages/static/css/main.eafed291.chunk.css",
-  "main.js": "/pages/timecapture/react-gh-pages/static/js/main.c06bc72a.chunk.js",
-  "main.js.map": "/pages/timecapture/react-gh-pages/static/js/main.c06bc72a.chunk.js.map",
-  "runtime~main.js": "/pages/timecapture/react-gh-pages/static/js/runtime~main.c541c639.js",
-  "runtime~main.js.map": "/pages/timecapture/react-gh-pages/static/js/runtime~main.c541c639.js.map",
-  "static/js/2.8f71a45e.chunk.js": "/pages/timecapture/react-gh-pages/static/js/2.8f71a45e.chunk.js",
-  "static/js/2.8f71a45e.chunk.js.map": "/pages/timecapture/react-gh-pages/static/js/2.8f71a45e.chunk.js.map",
-  "index.html": "/pages/timecapture/react-gh-pages/index.html",
-  "precache-manifest.4f097c8fcadb9dd775b0c00d400446d3.js": "/pages/timecapture/react-gh-pages/precache-manifest.4f097c8fcadb9dd775b0c00d400446d3.js",
-  "service-worker.js": "/pages/timecapture/react-gh-pages/service-worker.js",
-  "static/css/main.eafed291.chunk.css.map": "/pages/timecapture/react-gh-pages/static/css/main.eafed291.chunk.css.map",
-  "static/media/logo.svg": "/pages/timecapture/react-gh-pages/static/media/logo.5d5d9eef.svg"
+  "main.css": "/react-gh-pages/static/css/main.eafed291.chunk.css",
+  "main.js": "/react-gh-pages/static/js/main.cbfacecd.chunk.js",
+  "main.js.map": "/react-gh-pages/static/js/main.cbfacecd.chunk.js.map",
+  "runtime~main.js": "/react-gh-pages/static/js/runtime~main.ac2d5040.js",
+  "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.ac2d5040.js.map",
+  "static/js/2.8f71a45e.chunk.js": "/react-gh-pages/static/js/2.8f71a45e.chunk.js",
+  "static/js/2.8f71a45e.chunk.js.map": "/react-gh-pages/static/js/2.8f71a45e.chunk.js.map",
+  "index.html": "/react-gh-pages/index.html",
+  "precache-manifest.f6513a19013e392b6eb71410fd66d19a.js": "/react-gh-pages/precache-manifest.f6513a19013e392b6eb71410fd66d19a.js",
+  "service-worker.js": "/react-gh-pages/service-worker.js",
+  "static/css/main.eafed291.chunk.css.map": "/react-gh-pages/static/css/main.eafed291.chunk.css.map",
+  "static/media/logo.svg": "/react-gh-pages/static/media/logo.5d5d9eef.svg"
 }
