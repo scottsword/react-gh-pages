@@ -1,3 +1,22 @@
+
+## Steps to get started
+
+1. Fork repo
+2. Check out locally and run the following commands
+
+  * `yarn run build`
+  * `yarn run deploy`
+
+3. Check your repo settings and you should have a gh-pages URL, update the `homepage` property in the your `package.json` to use your new github provided URL.
+
+`"homepage": "[gh-url-here"]`
+
+4. Push your changes remote, this may take a moment for github to update the DNS.
+
+
+------
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
