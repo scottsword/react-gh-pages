@@ -2,7 +2,7 @@
   "name": "demo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.intuit.com/pages/timecapture/react-gh-pages/",
+  "homepage": "https://scottsword.github.io/react-gh-pages/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.4",
